@@ -51,8 +51,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
-    - Git is an important tool for keeping track of code changes across several people or teams. 
-        *(FUN FACT) This week I learned that google stores billions of lines of code in a single repository.
+    - Git is an important tool for keeping track of code changes across several people or teams.
 
 
 
